@@ -1,4 +1,4 @@
-# assigment 11
+# assigment 11 Armstrong Number
 sum = 0
 a = True
 while a == True:
